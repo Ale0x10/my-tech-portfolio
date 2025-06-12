@@ -1,0 +1,19 @@
+# ignore the following downloaded files:
+
+chip_stm32_docu_downloaded/safty_security/*
+!chip_stm32_docu_downloaded/safty_security/.gitkeep
+chip_stm32_docu_downloaded/programming/*
+!chip_stm32_docu_downloaded/programming/.gitkeep
+chip_stm32_docu_downloaded/peripherie/*
+!chip_stm32_docu_downloaded/peripherie/.gitkeep
+#chip_stm32_docu_downloaded/manufactoring/*
+#!chip_stm32_docu_downloaded/manufactoring/.gitkeep
+chip_stm32_docu_downloaded/device_package/*
+!chip_stm32_docu_downloaded/device_package/.gitkeep
+chip_stm32_docu_downloaded/additional/*
+!chip_stm32_docu_downloaded/additional/.gitkeep
+#chip_stm32_docu_downloaded/an2606-stm32-microcontroller-system-memory-boot-mode-stmicroelectronics-en.pdf
+chip_stm32_docu_downloaded/an2867-guidelines-for-oscillator-design-on-stm8afals-and-stm32-mcusmpus-stmicroelectronics-en.pdf
+chip_stm32_docu_downloaded/an4759-introduction-to-using-the-hardware-real-time-clock-rtc-and-the-tamper-management-unit-tamp-with-stm32-mcus-stmicroelectronics-en.pdf
+
+# ignore the following hw automatically generated files

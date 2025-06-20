@@ -1,0 +1,11 @@
+##CAN (
+
+CAN ist multimasterfähig. Jeder Knoten darf senden, wenn der Bus frei ist. 
+Es gibt lediglich arbitrierung und acknoledge 
+Für die Datensicherheit gibt es CRC und
+
+In DBC-Dateien trage ich IDs (Prioritäten) sowie deren Bezeichnung ein. Jeder Knoten hat zugriff.
+Niedrigere IDs haben Vorrang (wie Priority-Sceduling mäßig)
+
+Quellen:
+Kopieren und einfügen der web addressen funktioniert offenbar gerade nicht - todo über anderes Gerät)
